@@ -166,5 +166,4 @@ function form($x,$y){
 }
 
 echo "$h ".form($h,'h')." $m ".form($m,'m');
-
 ?>
